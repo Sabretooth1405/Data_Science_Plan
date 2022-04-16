@@ -1,0 +1,3 @@
+This WEEK(18th to 24th apr)
+- See python videos (2-9) from corey schafer's playlist
+- Complete all Hackerrank python problems to related topics
